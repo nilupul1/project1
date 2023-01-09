@@ -4,7 +4,6 @@
  */
 package signin;
 
-import com.mysql.cj.xdevapi.Statement;
 import com.sun.jdi.connect.spi.Connection;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
